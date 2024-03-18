@@ -17,6 +17,7 @@
             pkgs.ncurses
             pkgs.fontconfig
             pkgs.freetype
+            pkgs.harfbuzz
           ]
           ++ [
             pkgs.xorg.libX11
